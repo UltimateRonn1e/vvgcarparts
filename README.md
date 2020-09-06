@@ -1,3 +1,7 @@
+## My own experience
+<p align="center"> This project was made as MVC appication based on great framework which called Laravel.
+Main language of application is PHP. I also used CSS, Bootstrap, Jquery and JS during development.
+It's my first huge project with new experience of using new technologies. </p>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -78,7 +82,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
-This project was made as MVC appication based on great framework which called Laravel.
-Main language of application is PHP. I also used CSS, Bootstrap, Jquery and JS during development.
-It's my first huge project with new experience of using new technologies.

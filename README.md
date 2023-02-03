@@ -1,7 +1,51 @@
-## My own experience
-<p align="center"> This project was made as MVC appication based on great framework which called Laravel.
-Main language of application is PHP. I also used CSS, Bootstrap, Jquery and JS during development.
-It's my first huge project with new experience of using new technologies. </p>
+##Online catalog designed for enterpreneur to sell auto parts. The project full implemented in Laravel framework.
+
+**Used technologies:**
+
+🔧Platform - Laravel framework, PHP
+
+🔧Data transfer - AJAX
+
+🔧DataBase - MySQL
+
+🔧Pattern - MVC Application
+
+🎨Visual - CSS, SCSS, Bootstrap, JQuery, JS
+
+🔧IDE - Atom & VS Code
+
+**Features:**
+
+🔧View full catalog of auto parts
+
+🔧Sort catalog for price and relevance
+
+🔧Login/Registration is not implemented, because it's only catalog of autoparts
+
+🔧Admin panel is another repository on git
+
+🔧Discount system
+
+🔧Users can give feedback
+
+**Using app after enter on site:**
+
+**StartPage**
+
+![image](https://user-images.githubusercontent.com/51766687/216548805-1a2835b9-afa9-47ab-a4bc-65b88bb73696.png)
+
+**Main parts catalog**
+
+![image](https://user-images.githubusercontent.com/51766687/216548903-5bfd6fef-7c61-422b-9788-a2f36e4d1e8a.png)
+
+**Pre-view of selected part**
+
+![image](https://user-images.githubusercontent.com/51766687/216548961-91c364ac-b31a-4fd0-bba4-648346756e20.png)
+
+**Mobile view**
+
+![image](https://user-images.githubusercontent.com/51766687/216549021-49c8b562-4013-4279-8041-936c8444010d.png)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
